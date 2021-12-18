@@ -9,5 +9,7 @@ public static void main(String[] args) {
 public void mi()
 {
 System.out.println("m1");	
+System.out.println("m2");
+	System.out.println("m3");	
 }
 }
